@@ -1,5 +1,4 @@
-![alt text][logo]
-# Ngetik
+![	#	 Ngetik][logo]
 
 
 
